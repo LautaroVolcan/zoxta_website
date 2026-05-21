@@ -5,6 +5,11 @@ html, body {
   padding: 0;
 }
 
+a {
+    color: #ff0000; /* Cambia el color del enlace */
+    text-decoration: none; /* Elimina el subrayado por defecto */
+}
+
 html {
   scroll-behavior: smooth;
 }
